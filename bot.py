@@ -6,7 +6,7 @@ from aiogram.types import ParseMode, ContentType
 from aiogram.utils import executor
 
 logging.basicConfig(level=logging.INFO)
-API_TOKEN = 'YOUR_BOT_TOEKEN_SHOULD_BE_HERE'
+API_TOKEN = '1735646457:AAHvsKzx4PsWtTCM_8pRLuP4m-dv_UX_P7g'
 
 
 bot = Bot(token=API_TOKEN)
